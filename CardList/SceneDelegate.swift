@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  CardList
 //
-//  Created by Diksha on 21/02/22.
+//  Created by Venu on 21/02/22.
 //
 
 import UIKit
